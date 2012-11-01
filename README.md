@@ -9,6 +9,12 @@ ChuckT JavaScript library:
 
 # Usage:
 
+### Installation
+
+The recommended way to install chuckt-node is through npm:
+
+`npm install chuckt`
+
 ### Initialization
 
 ChuckT instances require a socket connection:
