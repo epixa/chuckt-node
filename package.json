@@ -1,0 +1,13 @@
+{
+  "name"        : "chuckt",
+  "author"      : "Court Ewing",
+  "version"     : "0.1.0",
+  "description" : "ChuckT is an event transport system built on the SockJS websocket API. This module is the server-side implementation of ChuckT and is designed to complement the client-side ChuckT JavaScript library.",
+  "keywords"    : ["websockets", "websocket", "sockjs", "sockjs-node", "events", "event"],
+  "homepage"    : "https://github.com/epixa/chuckt-node",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/epixa/chuckt-node.git"
+  },
+  "main": "index"
+}
